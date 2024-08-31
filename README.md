@@ -51,5 +51,13 @@ Contributions are welcome! Please follow these steps:
 - Push to the branch (`git push origin feature-branch`).
 - Open a pull request.
 
+![image](https://github.com/user-attachments/assets/5b81afd8-326b-4a56-af65-16a54b071b28)
+![image](https://github.com/user-attachments/assets/f038e707-ea35-40a0-8dac-254a34772578)
+![image](https://github.com/user-attachments/assets/9d201fd2-0c68-4841-8223-1b6ffe6a33f9)
+![image](https://github.com/user-attachments/assets/2778bcda-a308-468f-8952-334ac2f3af5d)
+![image](https://github.com/user-attachments/assets/a9e711bb-c825-48df-93af-0480f4c3feb5)
+![image](https://github.com/user-attachments/assets/c47b60eb-db01-4a7a-9290-b859e6b70efb)
+![image](https://github.com/user-attachments/assets/139c00fd-d43e-426f-b501-fc7a7bba2111)
+
 ### License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
